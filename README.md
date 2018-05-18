@@ -1,0 +1,3 @@
+# Ninjacoin
+
+Read Me~~
